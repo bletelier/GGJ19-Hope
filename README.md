@@ -1,8 +1,6 @@
 # Hope
 ## Global Game Jam Valdivia 2019
 
-I forgot to save the source code 😢, the source code on the GGJ webpage is the executable
-
 [Check the game here!](https://globalgamejam.org/2019/games/hope)
 
 ## Credits to:
